@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\VisualStudioProjects\Lab1(BasicsOfIT)_v2\Lab1(BasicsOfIT)_v2\Source.cpp(52,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+E:\VisualStudioProjects\Lab1(BasicsOfIT)_v2\Lab1(BasicsOfIT)_v2\Source.cpp(142,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Lab1(BasicsOfIT)_v2.vcxproj -> E:\VisualStudioProjects\Lab1(BasicsOfIT)_v2\Debug\Lab1(BasicsOfIT)_v2.exe
