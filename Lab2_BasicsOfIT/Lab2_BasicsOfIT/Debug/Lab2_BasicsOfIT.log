@@ -1,0 +1,12 @@
+﻿  Source.cpp
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(54,28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(69,34): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(100,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(105,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(107,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(150,15): warning C4244: инициализация: преобразование "long double" в "int", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(162,27): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(195,37): warning C4244: аргумент: преобразование "long double" в "float", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(269,51): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Lab2_BasicsOfIT\Source.cpp(274,57): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Lab2_BasicsOfIT.vcxproj -> E:\Университет\Гит\Основы информационных технологий\Lab2_BasicsOfIT\Debug\Lab2_BasicsOfIT.exe
